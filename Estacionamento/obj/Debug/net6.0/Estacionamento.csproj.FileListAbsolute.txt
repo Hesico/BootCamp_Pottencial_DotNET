@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
