@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\bin\Debug\net6.0\Hospedagem.exe
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\bin\Debug\net6.0\Hospedagem.deps.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\bin\Debug\net6.0\Hospedagem.runtimeconfig.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\bin\Debug\net6.0\Hospedagem.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\bin\Debug\net6.0\Hospedagem.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\refint\Hospedagem.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\Hospedagem.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Hospedagem\obj\Debug\net6.0\ref\Hospedagem.dll
