@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\bin\Debug\net6.0\Celular.exe
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\bin\Debug\net6.0\Celular.deps.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\bin\Debug\net6.0\Celular.runtimeconfig.json
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\bin\Debug\net6.0\Celular.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\bin\Debug\net6.0\Celular.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\refint\Celular.dll
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.pdb
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\Celular.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\BootCamp_Pottencial_DotNET\Celular\obj\Debug\net6.0\ref\Celular.dll
