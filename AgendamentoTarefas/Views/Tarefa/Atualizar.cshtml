@@ -1,0 +1,61 @@
+@model AgendamentoTarefas.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Atualizar Tarefa";
+}
+
+<h2>Atualizar Tarefa</h2>
+
+<br>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Titulo
+            </th>
+            <th>
+                Descricao
+            </th>
+            <th>
+                Data
+            </th>
+            <th>
+                Status
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <form asp-action="Atualizar">
+                    <td class="form-group">
+                        <input asp-for="Id" class="form-control" readonly />
+                    </td>
+                    <td class="form-group">
+                        <input asp-for="Titulo" id="Titulo" class="form-control" />
+                    </td>
+                    <td class="form-group">
+                        <input asp-for="Descricao" id="Descricao" class="form-control"  />
+                    </td>
+                    <td class="form-group">
+                        <input type="date" asp-for="Data" id="Data" class="form-control"  />
+                    </td>
+                    <td class="form-group">
+                        <select class="form-select"  asp-for="Status" id="Status" aria-label="Default select example">
+                        <option selected value="Pendente">Pendente</option>
+                        <option value="Realizando">Realizando</option>
+                        <option value="Finalizado">Finalizado</option>
+                        </select>
+                    </td>
+                    <td class="form-group">
+                        <input type="submit" value="Atualizar" class="btn btn-success"/>
+                    </td>
+                </form>
+            </tr>
+    </tbody>
+</table>
+

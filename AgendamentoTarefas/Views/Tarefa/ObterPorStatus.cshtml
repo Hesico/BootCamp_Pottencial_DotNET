@@ -1,4 +1,4 @@
-﻿@model IEnumerable<AgendamentoTarefas.Models.Tarefa>
+@model IEnumerable<AgendamentoTarefas.Models.Tarefa>
 
 @{
     ViewData["Title"] = "Tarefas";
@@ -6,6 +6,16 @@
 
 <h2>Tarefas</h2>
 
+<form asp-action="ObterPorStatus">
+    <div class="form-inline">
+        <select class="form-select" name="Status" id="Status" aria-label="Default select example" onchange="this.form.submit()">
+                <option disabled selected> -- Selecione um Status -- </option>
+                <option value="Pendente">Pendente</option>
+                <option value="Realizando">Realizando</option>
+                <option value="Finalizado">Finalizado</option>
+        </select>
+    </div>
+</form>
 <br>
 
 <table class="table">
@@ -54,29 +64,5 @@
                 </td>
             </tr>
         }
-        <form asp-action="Criar">
-            <td class="form-group">
-                <input value="Nova Tarefa" class="form-control" readonly />
-            </td>
-            <td class="form-group">
-                <input name="Titulo" id="Titulo" class="form-control" />
-            </td>
-            <td class="form-group">
-                <input name="Descricao" id="Descricao" class="form-control"  />
-            </td>
-            <td class="form-group">
-                <input type="date" name="Data" id="Data" class="form-control"  />
-            </td>
-            <td class="form-group">
-                <select class="form-select"  name="Status" id="Status" aria-label="Default select example">
-                <option selected value="Pendente">Pendente</option>
-                <option value="Realizando">Realizando</option>
-                <option value="Finalizado">Finalizado</option>
-                </select>
-            </td>
-            <td class="form-group">
-                <input type="submit" value="Criar" class="btn btn-success"/>
-            </td>
-        </form>
     </tbody>
 </table>

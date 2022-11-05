@@ -1,0 +1,53 @@
+@model AgendamentoTarefas.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Tarefa";
+}
+
+<h2>Tarefa</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Titulo
+            </th>
+            <th>
+                Descricao
+            </th>
+            <th>
+                Data
+            </th>
+            <th>
+                Status
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>
+                    @Model.Id
+                </td>
+                <td>
+                    @Model.Titulo
+                </td>
+                <td>
+                    @Model.Descricao
+                </td>
+                <td>
+                    @Model.Data
+                </td>
+                <td>
+                    @Model.Status
+                </td>
+                <td>
+                    <a asp-action="Atualizar" asp-route-id="@Model.Id" class="btn btn-primary"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a asp-action="Deletar" asp-route-id="@Model.Id"class="btn btn-danger"><span class="glyphicon glyphicon-remove"></span></a>
+                </td>
+            </tr>
+    </tbody>
+</table>
